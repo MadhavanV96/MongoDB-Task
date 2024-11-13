@@ -2,7 +2,17 @@
 
 1. The 7 Collections namely Users, Codekata, Attendance, Topics, Taks, Company_Drives and Mentors are initially made. Then I attached the screenshots of those collections. 
 
-2. Then I added the 6 queries and their o/p to fetch those data. Screenshot of Queries attached along with the code at the end for your reference.
+2. Then I added the 6 queries and their o/p to fetch those data. Screenshot of Queries attached along with the code at the start of the doc for your reference.
+
+
+# Collections
+
+![Collections](./Collections.png)
+
+# Queries - Screenshots:
+
+![Queries](./Queries.png)
+
 
 
 ## Database Creation
@@ -3604,9 +3614,7 @@ db.getCollection('Company_Drives').find({});
 db.getCollection('Mentors').find({});
 ```
 
-#Collections
 
-![Collections](./Collections.png)
 
 
 
@@ -4853,9 +4861,7 @@ db.getCollection('Attendence').aggregate(
 
 
 
-# Queries - Screenshots:
 
-![Queries](./Queries.png)
 
 
 
