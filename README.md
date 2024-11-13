@@ -1,4 +1,10 @@
 # **Zen Class Programme - Mongo DB Task**
+
+1. The 7 Collections namely Users, Codekata, Attendance, Topics, Taks, Company_Drives and Mentors are initially made. Then I attached the screenshots of those collections. 
+
+2. Then I added the 6 queries and their o/p to fetch those data. Screenshot of Queries attached along with the code at the end for your reference.
+
+
 ## Database Creation
 ### 1. Users Creation
 ``
